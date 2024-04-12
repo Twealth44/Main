@@ -15,10 +15,12 @@
   - Transmission Control Protocol/Internet Protocol(TCP/IP)
   - Network Architecture
   - Cloud Networks
-   
+    
 - <b>Linux</b>
+   
+- <b>PowerShell</b>
   - [Manage file content in Bash](https://github.com/joshmadakor1/Jwipe.PowerShell)
-  - [Authenticate and authorize users)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Jwipe](https://github.com/joshmadakor1/Jwipe.PowerShell)
   - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
   - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
 
