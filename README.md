@@ -1,6 +1,6 @@
 <h1>Hi, I'm Tolu! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>. 
 
-<h2>👨‍💻 Cybersecurity Projects:</h2>
+<h2>👨‍💻 Cybersecurity:</h2>
 
 - <b>Play it Safe: Manage Security Risks</b>
   - Information Security (INFOSEC)
