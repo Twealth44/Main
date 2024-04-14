@@ -6,24 +6,25 @@
 Let's connect and learn together. Feel free to explore my projects and reach out for collaboration or discussion on all things cybersecurity!
 
 ## Objective
-[Provide Objective - Remove this afterwards]]
-
+My deep-seated commitment to securing my environment, coupled with my genuine curiosity about network functionality and protection strategies, has sparked a profound interest in cybersecurity.
 My journey in computer science has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
 
 ## Skills
-[Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| SIEM Implementation and Log Analysis          | <a href="https://google.com">Detection Lab</a>|
-| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
+| Managing Access Permission                    |[Linux Lab](https://github.com/Twealth44/Managing-Access-Permission)
+| Authenticate and Authorize Users using        |Linux (present Project|
+| SIEM Implementation and Log Analysis          | Upcoming Project|
+| Network Traffic Monitoring and Attack Detection |Upcoming Project|
 | Security Automation with Shuffle SOAR         | SOC Automation Lab|
 | Incident Response Planning and Execution      | SOC Automation Lab|
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab|
 
 ## Tools
-[Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]]
+Linux - Splunk - SQL
+
 
 ### Network
 <div>
@@ -58,5 +59,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 </div>
 
 ## Projects
+- Manage Access Permission
+- Authenticate and Authorize Users
 - Detection Lab
 - SOC Automation Project
