@@ -13,6 +13,7 @@ My journey in computer science has led me to develop a passion for cybersecurity
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
+| Basic Linux Command                           |https://github.com/Twealth44/git-init.git
 | Managing Access Permission                    |[Linux Lab](https://github.com/Twealth44/Managing-Access-Permission)
 | Authenticate and Authorize Users using        |Linux (present Project|
 | SIEM Implementation and Log Analysis          | Upcoming Project|
